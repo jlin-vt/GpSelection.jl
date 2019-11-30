@@ -1,5 +1,5 @@
 module GpSelection
-    export fixMatrix, calcSigma, generateZ, generateData, Options, PriorPars
+    export fixMatrix, calcSigma, generateZ, generateData, Options, PriorPars, varBayes
 
     using Distributions
     using MatrixDepot
