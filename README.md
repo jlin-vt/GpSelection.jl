@@ -1,7 +1,6 @@
 # GpSelection
 
 [![Build Status](https://travis-ci.org/jlin-vt/GpSelection.jl.svg?branch=master)](https://travis-ci.org/jlin-vt/GpSelection.jl)
-
 [![codecov.io](http://codecov.io/github/jlin-vt/GpSelection.jl/coverage.svg?branch=master)](http://codecov.io/github/jlin-vt/GpSelection.jl?branch=master)
 
 # GpSelection
